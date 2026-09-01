@@ -1,4 +1,4 @@
-# 🏥 Hospital Management Exploratory Aalysis With SQL
+# 🏥 Hospital Management Exploratory Analysis With SQL
 
 ## 📌 Introduction
 
